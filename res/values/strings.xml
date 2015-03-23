@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WiPushYoutube</string>    
+    <string name="add_to_wiplayer">Add to WiPlayer</string>    
+    <string name="close">Close</string>
+    <string name="error_title">Error Message</string>
+    <string name="youtube_url_parser">Searching resource URL&#8230;</string>
+    <string name="connot_found">Cannot found WiPlayer, please try again.</string>
+    <string name="send_success">Send successfully</string>    
+    <string name="youtube_error_age_verify">YouTube is asking for age verification. We cannot handle that sorry.</string>
+    <string name="youtube_error_captcha_found">Captcha found, please try with different IP address.</string>
+    <string name="youtube_error_stream_maps">Found zero or too many stream maps.</string>
+    <string name="youtube_error_not_found">Could not find any URLs and corresponding signatures</string>
+    <string name="not_found_av_transport">Not found supported AV transport type</string>
+    <string name="start_service">Start WiPushYoutube service, please wait&#8230;</string>
+    <string name="scan">Device scanning&#8230;</string>
+   
+</resources>
